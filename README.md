@@ -2,6 +2,8 @@
 
 This is a simple Roblox Script Executor Batch program written in C#. It allows you to execute and load LUA scripts in the Roblox game environment.
 
+For more, visit my discord server here: https://discord.gg/kU76JTTBx2
+
 ## Prerequisites
 
 Before running this program, make sure you have the following software installed:
