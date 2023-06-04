@@ -16,8 +16,7 @@ Before running this program, make sure you have the following software installed
 
 1. Clone or download this repository to your local machine.
 
-2. Open the executor.exe file or download and open the solution file (.sln) from the repository on visual studio.
-
-3. Build the solution to compile the program or open the .exe
+2. Open the executor.exe file.
+3. Open the .exe
 
 4. Enjoy Scripting!
