@@ -6,4 +6,6 @@ Version v0.1 Features:
 -Roblox Anti-Cheat Camouflage! (Undetected But Still, Use It At An Alt Account)!
 -Attach Button!
 
+Bug Fix: If Roblox Is Closed When Executed And The Music Still Plays, Then The Cheat Closes The Process.
+
 Thanks For Reading!
