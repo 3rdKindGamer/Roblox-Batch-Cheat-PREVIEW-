@@ -17,6 +17,5 @@ Before running this program, make sure you have the following software installed
 1. Clone or download this repository to your local machine.
 
 2. Open the executor.exe file.
-3. Open the .exe
 
-4. Enjoy Scripting!
+3. Enjoy Scripting!
